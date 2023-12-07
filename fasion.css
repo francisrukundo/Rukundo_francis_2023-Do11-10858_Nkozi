@@ -1,0 +1,89 @@
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: red;
+}
+.first{
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ margin-left: 60px;
+ margin-top: 30px;
+ font-size: 15px;
+ font-family: Arial;
+ font-weight: bold; 
+ 
+  
+}
+a{
+margin-left: 60px;
+ margin-top: 30px;
+ font-size: 15px;
+ font-family: Arial;
+ font-weight: bold;
+
+}
+.icon{
+    display: flex;
+    margin-left: 60px;
+    justify-items: right;
+    justify-content: right;
+    font-family: Arial;
+ font-weight: bold;
+margin-top: 30px;
+    
+}
+.sheila{
+    color: orange;
+    font-size: 200%;
+}
+.src{
+    text-align: left;
+    height: 50px;
+    width: 550px;
+    background-color: beige;
+    color: blue;
+    border-radius: 10%;
+    
+}
+
+.second{
+    justify-content: center;
+    text-align: center;
+    background-color: bisque;
+    text-decoration: none;
+}
+.fourthdiv{
+    display: flex;
+ align-items: center;
+ justify-content: center;
+ margin-left: 60px;
+ margin-top: 30px;
+ font-size: 15px;
+ font-family: Arial;
+ font-weight: bold; 
+ background-image: sheila2.png;
+ 
+  
+
+}
+h1{
+    display: flex;
+ align-items: center;
+ justify-content: center;
+ margin-left: 60px;
+ margin-top: 30px;
+ font-size: 15px;
+ font-family: Arial;
+ font-weight: bold;
+ color: orange; 
+ 
+
+}
+btn{
+    display: flex;
+    justify-content: center;
+
+}
+
